@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Say Why to Begin."
+date: 2025-02-22 00:00:00 +0000
+categories: jekyll the second
+---
+
+# Say Why to Begin.
+
+Everyone loved the Hitchhiker's Guide to the Galaxy.  But no one asked why.
+I don't really love to write.  And to this I will ask why?  I think its because
+I'm not highly verbal.  And a wee bit repressed.  Writing is a struggle.  We need
+to say why to begin.
