@@ -2,7 +2,7 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 
-@import url("https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,650&family=Source+Sans+3:wght@400;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Sedgwick+Ave+Display&family=Permanent+Marker&family=Source+Sans+3:wght@400;600&display=swap");
 
 // Minima settings (must come before the import)
 $base-font-family: "Source Sans 3", -apple-system, "Segoe UI", Roboto, sans-serif;
@@ -39,7 +39,8 @@ $background-color: #faf7f2;
   }
 }
 
-$serif: "Fraunces", Georgia, "Times New Roman", serif;
+$serif: "Sedgwick Ave Display", "Permanent Marker", "Comic Sans MS", cursive;
+$marker: "Permanent Marker", "Comic Sans MS", cursive;
 
 body { background: var(--bg); color: var(--text); }
 a { color: var(--accent); }
@@ -117,3 +118,14 @@ h1, h2, h3, .post-title, .page-heading { font-family: $serif; font-weight: 650; 
   .post-grid { gap: 18px; }
   .post-title { font-size: 1.9rem; }
 }
+
+// ---- Graffiti headings ----
+h1, h2, h3, .post-title, .page-heading, .site-title, .site-title:visited, .hero-title, .post-card-title, .footer-heading {
+  font-weight: 400; letter-spacing: 0.01em;
+}
+.site-title { font-size: 1.9rem; }
+.hero-title { font-size: 3.4rem; }
+.post-card-title { font-size: 1.7rem; line-height: 1.15; }
+.post-card-date, .post-meta { font-family: $marker; text-transform: none; letter-spacing: 0.02em; font-size: .95rem; }
+@media (min-width: 760px) { .post-card:first-child .post-card-title { font-size: 2.6rem; } }
+@media (max-width: 600px) { .hero-title { font-size: 2.7rem; } }
