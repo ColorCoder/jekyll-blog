@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Its a 1am start to my day"
-date: 2026-11-15 12:00:00 +0000
+date: 2026-11-15 01:00:00 -0700
 categories: personal
 image: me-webcam.jpg
 ---
