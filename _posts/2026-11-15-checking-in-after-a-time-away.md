@@ -7,6 +7,9 @@ categories: personal
 
 # Checking in after a time away
 
+![A cartoon of me waving hello from behind a laptop]({{ "/assets/images/blogger-sketch.svg" | relative_url }})
+*Me, as imagined by Claude — it has never actually seen me.*
+
 Hello my blog. Not really very kind to you am I? I may have found a way to talk
 to you again. The old way was so tedious. This is using Claude AI. How did it
 turn out?

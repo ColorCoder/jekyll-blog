@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300" role="img" aria-label="A cartoon person waving hello from behind a laptop">
+  <rect width="400" height="300" rx="16" fill="#f4efe6"/>
+  <!-- speech bubble -->
+  <rect x="235" y="28" width="140" height="52" rx="14" fill="#fff" stroke="#333" stroke-width="2.5"/>
+  <path d="M255 80 L245 98 L272 80 Z" fill="#fff" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <rect x="256" y="77" width="18" height="5" fill="#fff"/>
+  <text x="305" y="61" font-family="Georgia, serif" font-size="18" text-anchor="middle" fill="#333">Hello, blog!</text>
+  <!-- body -->
+  <path d="M110 300 C110 225 140 205 180 205 C220 205 250 225 250 300 Z" fill="#4a7c9e" stroke="#333" stroke-width="2.5"/>
+  <!-- waving arm -->
+  <path d="M238 228 C262 205 270 170 262 140" fill="none" stroke="#4a7c9e" stroke-width="22" stroke-linecap="round"/>
+  <path d="M238 228 C262 205 270 170 262 140" fill="none" stroke="#333" stroke-width="2.5" stroke-linecap="round" opacity="0.25"/>
+  <circle cx="261" cy="128" r="15" fill="#e8b98f" stroke="#333" stroke-width="2.5"/>
+  <path d="M276 112 q8 -6 12 2 M280 124 q9 -3 11 5" fill="none" stroke="#333" stroke-width="2" stroke-linecap="round"/>
+  <!-- neck + head -->
+  <rect x="170" y="185" width="20" height="24" fill="#e8b98f" stroke="#333" stroke-width="2.5"/>
+  <circle cx="180" cy="148" r="45" fill="#e8b98f" stroke="#333" stroke-width="2.5"/>
+  <!-- hair -->
+  <path d="M136 140 C134 100 168 92 186 98 C206 92 230 110 224 140 C216 122 196 114 180 118 C162 114 146 124 136 140 Z" fill="#6b4f3a" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- glasses -->
+  <circle cx="163" cy="150" r="12" fill="none" stroke="#333" stroke-width="2.5"/>
+  <circle cx="197" cy="150" r="12" fill="none" stroke="#333" stroke-width="2.5"/>
+  <line x1="175" y1="150" x2="185" y2="150" stroke="#333" stroke-width="2.5"/>
+  <circle cx="163" cy="151" r="2.5" fill="#333"/>
+  <circle cx="197" cy="151" r="2.5" fill="#333"/>
+  <!-- smile -->
+  <path d="M165 172 Q180 184 195 172" fill="none" stroke="#333" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- laptop -->
+  <path d="M60 300 L80 236 L200 236 L190 300 Z" fill="#c9c9c9" stroke="#333" stroke-width="2.5" stroke-linejoin="round"/>
+  <circle cx="137" cy="268" r="6" fill="#f4efe6" stroke="#333" stroke-width="2"/>
+</svg>
