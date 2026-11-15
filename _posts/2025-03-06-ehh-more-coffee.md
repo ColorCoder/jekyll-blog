@@ -7,4 +7,4 @@ categories: pain tibia
 
 ehhh.   need more coffee.  running out of energy.  slept 5 hours.   waiting for guy to spray the house for bugs.
 
-![Pest Control](https://live.staticflickr.com/65535/54369919840_6c4ce7c1f4_b.jpg "Waiting for guy to spray.")
+![Pest Control](https://live.staticflickr.com/65535/54369919840_6c4ce7c1f4_b.jpg "Waiting for guy to spray."){: referrerpolicy="no-referrer"}
