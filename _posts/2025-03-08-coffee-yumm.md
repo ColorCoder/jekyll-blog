@@ -7,4 +7,4 @@ categories: morning coffee
 
 so much hassle when you cant fricking type.  typos galore.  takes much longer.
 
-![Coffee](https://live.staticflickr.com/65535/54372428652_9abd14ce84_k.jpg "Yumm. Coffee!")
+![Coffee]({{ "/assets/images/coffee-yumm.jpg" | relative_url }} "Yumm. Coffee!")
