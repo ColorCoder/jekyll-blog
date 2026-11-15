@@ -21,8 +21,8 @@
 title: "Checking In"
 email: ""
 description: ""
-baseurl: "/jekyll-blog" # the subpath of your site, e.g. /blog
-url: "https://colorcoder.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://scott-the-blog.com" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username:
 github_username: ColorCoder
 
