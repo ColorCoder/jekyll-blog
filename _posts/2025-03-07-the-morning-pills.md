@@ -8,4 +8,4 @@ categories: pain tibia
 Right now this second its at a 2 or 3 the pain.  A minute ago it was like a 5.  10 being the worst I 
 could ever feel.  Going to dialysis in a few.  I don’t think I’ll wear the brace cuz it hurts.
 
-![Morning Pills](https://live.staticflickr.com/65535/54371044558_b9d0dae17e_k.jpg "Just mornings."){: referrerpolicy="no-referrer"}
+![Morning Pills](https://live.staticflickr.com/65535/54371044558_b9d0dae17e_k.jpg "Just mornings.")
