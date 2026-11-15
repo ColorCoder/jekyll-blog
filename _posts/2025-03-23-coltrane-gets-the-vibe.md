@@ -3,6 +3,7 @@ layout: post
 title: "Coltrane gets the vibe."
 date: 2025-03-23 00:00:00 -0600
 categories: coding and coltrane
+image: coltrane-gets-the-vibe.jpg
 ---
 
 So.  had enough sleep.  had my am pills.  had coffee.   had breakfast.  cleaned car.  got rid of car trash. 

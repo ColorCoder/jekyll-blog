@@ -3,6 +3,7 @@ layout: post
 title: "What I'm Doing"
 date: 2025-02-25 00:00:00 -0700
 categories: jekyll blogging what im doing today
+image: what-im-doing-today.jpg
 ---
 
 This markdown is easy to compose.  its mostly just text with a header i copy from an earlier entry.

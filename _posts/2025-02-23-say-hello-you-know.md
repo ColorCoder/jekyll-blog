@@ -3,6 +3,7 @@ layout: post
 title: "Say Hello You Know"
 date: 2025-02-23 00:00:00 -0700
 categories: jekyll blogging hyde starting
+image: say-hello-you-know.jpg
 ---
 
 Hmmm.  Just starting here.  Second day of Journal.  I say hello, you know?

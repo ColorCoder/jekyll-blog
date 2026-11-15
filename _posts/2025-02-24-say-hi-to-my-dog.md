@@ -3,6 +3,7 @@ layout: post
 title: "Say Hi to my Dog"
 date: 2025-02-24 00:00:00 -0700
 categories: jekyll blogging ginger dog
+image: say-hi-to-my-dog.jpg
 ---
 
 What maybe a year she’s been my dog.  She’s a pretty good girl.  Not highly affectionate.  And she will go after other

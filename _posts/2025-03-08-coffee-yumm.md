@@ -3,6 +3,7 @@ layout: post
 title: "Coffee"
 date: 2025-03-08 00:00:00 -0700
 categories: morning coffee
+image: coffee-yumm.jpg
 ---
 
 so much hassle when you cant fricking type.  typos galore.  takes much longer.

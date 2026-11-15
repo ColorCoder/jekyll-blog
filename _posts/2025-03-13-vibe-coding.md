@@ -3,6 +3,7 @@ layout: post
 title: "Vibe coding in Replit"
 date: 2025-03-13 00:00:00 -0600
 categories: coding replit
+image: vibe-coding.jpg
 ---
 
 When you use AI in something like Replit to do all the coding and you rarely if ever look at the code

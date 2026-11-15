@@ -1,6 +1,6 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
+# The text below appears next to your photo at the top of the home page.
 layout: home
 ---
+
+Notes from home: coffee, code, Ginger the dog, and whatever today brings.

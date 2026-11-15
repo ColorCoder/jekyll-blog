@@ -3,9 +3,8 @@ layout: post
 title: "Checking in after a time away"
 date: 2026-11-15 00:00:00 +0000
 categories: personal
+image: coltrane-gets-the-vibe.jpg
 ---
-
-# Checking in after a time away
 
 ![Me in my cap]({{ "/assets/images/coltrane-gets-the-vibe.jpg" | relative_url }})
 
